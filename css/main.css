@@ -1,0 +1,10 @@
+section > span > a {
+  display: inline-block;
+}
+p {
+    text-indent: 2em;
+}
+footer {
+  background-color: grey;
+  height: 70px;
+}
