@@ -1,10 +1,50 @@
-section > span > a {
-  display: inline-block;
-}
 p {
     text-indent: 2em;
 }
-footer {
-  background-color: grey;
-  height: 70px;
+
+
+body {
+  background-color: #9FDEFF;
 }
+
+#chicken, #beef, #sushi {
+  background-color: #2EC0CC;
+  margin-bottom: 2em;
+}
+
+.container-fluid, .navbar-header {
+  background-color: #FFC653;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #2EC0CC;
+}
+#nav-list a:hover {
+  background-color: #99936F;
+}
+
+ #nav-list a:hover{
+   background-color: #99936F;
+ }
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #2EC0CC;
+ }
+.navbar-default .navbar-brand {
+   color: #2EC0CC;
+  }
+
+#bs-example-navbar-collapse-1 {
+   background-color: #FFC653;
+  }
+
+
+
+
+/*@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+
+}
+@media (max-device-width: 480px) and (orientation: landscape) {
+
+}*/
